@@ -1,7 +1,7 @@
 <template>
     <div class="">
-        <nav class="md:mx-20 font-montserrat">
-            <div class="flex justify-between text-center text-2xl mb-8 mt-4">
+        <nav class="md:mx-20 font-montserrat mb-10">
+            <div class="flex justify-between text-center text-2xl mb-5 mt-4">
                 <div class=" text-left w-full text-sm">b</div>
                 <div class="   w-full">Sine Brand</div>
                 <div class="text-right w-full text-sm">t</div>

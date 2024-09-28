@@ -1,4 +1,5 @@
 import './assets/styles.css'
+import '@glidejs/glide/dist/css/glide.core.min.css';
 
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
